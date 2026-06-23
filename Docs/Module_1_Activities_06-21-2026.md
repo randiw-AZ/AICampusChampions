@@ -91,10 +91,10 @@ Annotation Table \-- complete 8-10 rows across both readings
 
 Made with Miro.com  
 
-#Version 1
+Version 1
 ![][https://github.com/randiw-AZ/AICampusChampions/blob/main/Images/ConceptMap_Week1_RandiWeinstein.png]
 
-#Version 2
+Version 2
 ![][https://github.com/randiw-AZ/AICampusChampions/blob/main/Images/ConceptMap_Week1_RandiWeinstein_version2.png]
 
 ## Notes from Task 3: Structured LLM Exploration — Five-Prompt Protocol \[45 min\]
