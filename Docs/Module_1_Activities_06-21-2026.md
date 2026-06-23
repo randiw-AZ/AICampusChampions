@@ -90,9 +90,12 @@ Annotation Table \-- complete 8-10 rows across both readings
 ### Notes from Task 2: Personal Concept Map Construction \[45 min\]
 
 Made with Miro.com  
+
+#Version 1
 ![][https://github.com/randiw-AZ/AICampusChampions/blob/main/Images/ConceptMap_Week1_RandiWeinstein.png]
 
-## ![][https://github.com/randiw-AZ/AICampusChampions/blob/main/Images/ConceptMap_Week1_RandiWeinstein_version2.png]
+#Version 2
+![][https://github.com/randiw-AZ/AICampusChampions/blob/main/Images/ConceptMap_Week1_RandiWeinstein_version2.png]
 
 ## Notes from Task 3: Structured LLM Exploration — Five-Prompt Protocol \[45 min\]
 
